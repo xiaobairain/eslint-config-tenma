@@ -37,4 +37,4 @@ To use TENMA style in conjunction with ESLint's recommended rule set, extend the
 
 ## License
 
-Apache-2 © IVWEB
+ISC
